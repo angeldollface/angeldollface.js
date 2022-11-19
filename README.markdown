@@ -12,7 +12,7 @@ Make sure you have Node.js installed and available from the command line!
 To run my greeting card, simply run the command below:
 
 ```bash
-npx angeldollface
+npx git+https://github.com/angeldollface/angeldollface.js
 ```
 
 ## CHANGELOG :black_nib:
