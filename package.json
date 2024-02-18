@@ -28,7 +28,6 @@
     "ora": "^5.1.0",
     "request": "^2.88.2"
   },
-  "author": "Alexander Abraham (http://angeldollface.art)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/angeldollface/angeldollface.js/issues"

@@ -22,7 +22,7 @@ function main(){
             .hex("#2b82b2")
             .bold("University of Vienna")}`,
         github: chalk.gray("https://github.com/") + chalk.green("angeldollface"),
-        web: chalk.cyan("https://angeldollface.art"),
+        web: chalk.cyan("https://angeldollface.boo"),
         npx: chalk.red("npx") + " " + chalk.white("angeldollface"),
     
         labelOccupation: chalk.white.bold("     Occupation:"),
